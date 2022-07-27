@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+.info {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.forms {
+    width: 30%;   
+}
+fieldset {
+    border: none;
+    align-items: center;
+    justify-content: space-around;
+}
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
